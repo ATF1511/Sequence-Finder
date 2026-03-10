@@ -17,6 +17,6 @@ Eh I just think it's funny.
 I will probably make it for more languages... shouldn't be to complicated to transfer it to actual lua... right?
 
 Bye lol
-ATF1511
+-ATF1511
 
 ]]--
